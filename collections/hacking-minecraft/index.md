@@ -22,6 +22,7 @@ items:
  - GlowstoneMC/Glowstone
  - MovingBlocks/Terasology
  - Zerite/CraftLib
+ - HyperFreeze/AssassinationLauncher
 display_name: Hacking Minecraft
 created_by: leereilly
 ---
